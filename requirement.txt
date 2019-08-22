@@ -1,0 +1,5 @@
+Packages for scrapping : requests, html, re (regular expression), csv
+
+Packages for statistical analysis : statistics, matplotlib, matplotlib.pyplot 
+
+Packages for econometrics : pandas, numpy, statsmodel
